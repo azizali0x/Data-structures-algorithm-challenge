@@ -1,0 +1,15 @@
+{
+  "name": "data-structures-and-algorith-challenge",
+  "version": "1.0.0",
+  "description": "solving data structures and Algorithms challenge each and everyday",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/certyfreak/Data-structures-algorithm-challenge"
+  },
+  "author": "certyfreak",
+  "license": "ISC"
+}
