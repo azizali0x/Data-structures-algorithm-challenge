@@ -1,5 +1,5 @@
 "use strict";
-//Given a list of numbers and a number k, return whether  two numbers from the list add up to k.
+//Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
 let arr = [1, 2, 3, 4, 5, 6];
 let sum = 20;
 const number_sum = (arr, num) => {
