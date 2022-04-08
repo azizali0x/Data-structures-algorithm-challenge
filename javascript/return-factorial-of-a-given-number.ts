@@ -1,4 +1,6 @@
 
+//return a factorial of any given number
+
 function factorial( num : number){
     let counter :number = 0
 
@@ -13,4 +15,4 @@ function factorial( num : number){
     return facto
 }
 
-console.log(factorial(4))
+factorial(4)

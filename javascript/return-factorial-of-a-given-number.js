@@ -1,4 +1,5 @@
 "use strict";
+//return a factorial of any given number
 function factorial(num) {
     let counter = 0;
     let facto = 0;
@@ -12,4 +13,4 @@ function factorial(num) {
     }
     return facto;
 }
-console.log(factorial(4));
+factorial(4);
